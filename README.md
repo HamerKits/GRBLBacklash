@@ -13,12 +13,12 @@ The script has an x, y, and z compensation distance. This is the ammount of back
 
 ![](./images/pcbTest.jpg)
 
-The image above shows my development stages:  
-0. no compensation, straight from flatcam  
-1. first shot, no threshold. Note angled cuts where they should be straight  
-2. threshold added  
-3. tested some code that didn't work  
-4. final result and current code.  
+The image above shows my development stages.  
+cut 0. no compensation, straight from flatcam  
+cut 1. first shot, no threshold. Note angled cuts where they should be straight  
+cut 2. threshold added  
+cut 3. tested some code that didn't work  
+cut 4. final result and current code.  
 
 Future additions:  
 1. Test and confirm metric G-code files work  
