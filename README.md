@@ -13,7 +13,7 @@ The script has an x, y, and z compensation distance. This is the ammount of back
 
 ![](./images/pcbTest.jpg)
 
-The image above shows my development stages.  
+The image above shows my development stages:  
 0. no compensation, straight from flatcam  
 1. first shot, no threshold. Note angled cuts where they should be straight  
 2. threshold added  
